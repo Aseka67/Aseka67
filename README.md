@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aseka Hussaini Dogara a graduate of statistics in Abubakar Tafawa Balewa, currently serving at Uniccon group of companies 
-- 👀 I'm interested in design and Data science 
-- 🌱 I’m currently learning Python programming for Data science
-- 💞️ I’m looking to collaborate with Experts in Data science and grogramming languages
+- 👋 Hi, I’m @Aseka Hussaini Dogara a graduate of statistics in Abubakar Tafawa Balewa, served at Uniccon group of companies 
+- 👀 I'm interested in design and Data analysis 
+- 🌱 Still learning more tools for Data analysis 
+- 💞️ I’m looking to collaborate with Experts in Data analysis and grogramming languages
 - 📫 How to reach me hussainiaseka67@gmail.com 
 
 <!---
